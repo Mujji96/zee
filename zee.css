@@ -1,14 +1,16 @@
 body{
-    background-color:blanchedalmond;
+    background-color:rgba(255, 255, 255, 0.926);
 }
 
+/* this CSS is blocked for testing purpose rn
 img {
-    width: 500px;
-    height: 800px;
+    width: 200px;
+    height: 200px;
 }
+*/
 
-h3 {
-    align-items: center;
+.header {
+    background-color: rgba(216, 216, 211, 0.762);
 }
 
 .container-2 {
@@ -25,11 +27,15 @@ justify-content:center;
 .container-3 {
     display: flex;
     flex-direction: row;
-    gap: 100px;
+    gap: 400px;
     justify-content:center;
+    margin-top: 5%;
     
 }
 
+.container-31,h3 {
+    text-align: center;
+}
 
 
 .footer {
