@@ -2,8 +2,14 @@ body{
     background-color:blanchedalmond;
 }
 
+img {
+    width: 500px;
+    height: 800px;
+}
 
-
+h3 {
+    align-items: center;
+}
 
 .container-2 {
 color:black;
@@ -16,9 +22,15 @@ justify-content:center;
 
 
 
-.middle {
-
+.container-3 {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    justify-content:center;
+    
 }
+
+
 
 .footer {
 
