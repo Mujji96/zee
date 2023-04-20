@@ -1,6 +1,17 @@
-.header {
-background-color:aqua
+body{
+    background-color:blanchedalmond;
 }
+
+
+
+
+.section-1 {
+color:black;
+display: flex;
+flex-direction: row;
+}
+
+
 
 .middle {
 
