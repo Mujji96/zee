@@ -5,10 +5,12 @@ body{
 
 
 
-.section-1 {
+.container-2 {
 color:black;
 display: flex;
 flex-direction: row;
+gap: 10px;
+align-items: flex-end;
 }
 
 
