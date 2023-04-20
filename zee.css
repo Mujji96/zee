@@ -3,8 +3,12 @@ body{
 }
 
 
-img {
-    align-items: center;
+.zee-1{
+    width: 400px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
