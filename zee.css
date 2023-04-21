@@ -2,7 +2,13 @@ body{
     background-color:rgba(255, 255, 255, 0.932);
 }
 
+h3 {
+    text-align: center;
+}
 
+.button:is(:hover,:focus){
+    outline-offset: 3px;
+}
 .zee-1{
     width: 400px;
     height: 200px;
@@ -47,12 +53,13 @@ justify-content:center;
     
 }
 
-h3 {
-    text-align: center;
-}
-
 
 
 .footer {
+background-color: rgb(249, 243, 234);
+}
 
+.zee-4 {
+    height: 100px;
+    width: 100px;
 }
