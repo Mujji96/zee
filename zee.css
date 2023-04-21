@@ -2,13 +2,20 @@ body{
     background-color:rgba(255, 255, 255, 0.932);
 }
 
-h3 {
-    text-align: center;
+.button-1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
 }
 
-.button:is(:hover,:focus){
-    outline-offset: 3px;
+.button-2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
 }
+
+
+
 .zee-1{
     width: 400px;
     height: 200px;
@@ -57,9 +64,19 @@ justify-content:center;
 
 .footer {
 background-color: rgb(249, 243, 234);
+display: flex;
+justify-content: center;
 }
 
+
+
+
 .zee-4 {
-    height: 100px;
-    width: 100px;
+    height: 30px;
+    width: 30px;
+}
+
+.zee-5 {
+    height: 30px;
+    width: 30px;
 }
